@@ -7,3 +7,5 @@ Eventually, I get tired however I like to learn languages, programming languages
 
 Also, I am healthy, compromised and wealthy person. I never stop, and I always go further. 
 
+This is my final modification, I believe. It is time to learn databeses. Lets begin. 
+
